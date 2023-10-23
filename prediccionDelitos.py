@@ -55,7 +55,7 @@ with st.container():
   from PIL import Image
 
 
-  st.write("Realizado por Diego Lozano, Miguel Estupiñan, Paola Galvis, Maria Alfonso :mortar_board:")
+  st.write("Realizado por Diego Lozano , Juan Diaz , Miguel Estupiñan , Esteban Garcia :mortar_board:")
   st.write("**Estudiantes Universidad Autonoma de Bucaramanga (UNAB)**")
   st.write("""
 
