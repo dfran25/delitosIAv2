@@ -158,7 +158,7 @@ st.write("El númerp de tipos de delitos registrados  ", len(df['DELITO_SOLO'].u
 st.write(df.head(5))
 #Opciones de la barra lateral
 
-logo=Image.open("C:/Users/USUARIO/Documents/UNAB/inteligenciaArtificial/delitos/menu.jpg")
+logo=Image.open("menu.jpg")
 st.sidebar.write('...')
 st.sidebar.image(logo, width=150)
 st.sidebar.header('Seleccione los datos de entrada')
